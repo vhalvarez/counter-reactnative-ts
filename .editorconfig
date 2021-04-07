@@ -1,0 +1,9 @@
+# Windows files
+[*.bat]
+end_of_line = crlf
+
+[*.js]
+indent_size = 4
+
+[*.tsx]
+indent_size = 4
